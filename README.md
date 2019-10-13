@@ -1,1 +1,3 @@
->This is the first game (you shouldn't laugh!!!) of SeashellBaylor! Can you sustain me? Come on!
+## 1.0.0 （中文 / 英文）版本的 MTS 发布！
+
+>### 本次是第一次发布，どうぞよろしくお愿いします！
